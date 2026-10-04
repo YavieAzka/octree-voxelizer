@@ -1,4 +1,4 @@
-# Tugas Kecil 2 IF2211 Strategi Algoritma: Voxelization Objek 3D menggunakan Octree
+# Voxelization Objek 3D menggunakan Octree
 
 ## Penjelasan Singkat Program
 
